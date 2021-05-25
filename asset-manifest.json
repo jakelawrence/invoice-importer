@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/invoice-importer/static/css/main.7cad260a.chunk.css",
-    "main.js": "/invoice-importer/static/js/main.cfcb4ca9.chunk.js",
-    "main.js.map": "/invoice-importer/static/js/main.cfcb4ca9.chunk.js.map",
+    "main.css": "/invoice-importer/static/css/main.b892675c.chunk.css",
+    "main.js": "/invoice-importer/static/js/main.39f08af8.chunk.js",
+    "main.js.map": "/invoice-importer/static/js/main.39f08af8.chunk.js.map",
     "runtime-main.js": "/invoice-importer/static/js/runtime-main.6ce72c13.js",
     "runtime-main.js.map": "/invoice-importer/static/js/runtime-main.6ce72c13.js.map",
     "static/css/2.dcdbee2c.chunk.css": "/invoice-importer/static/css/2.dcdbee2c.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.d5859c96.chunk.js.map": "/invoice-importer/static/js/3.d5859c96.chunk.js.map",
     "index.html": "/invoice-importer/index.html",
     "static/css/2.dcdbee2c.chunk.css.map": "/invoice-importer/static/css/2.dcdbee2c.chunk.css.map",
-    "static/css/main.7cad260a.chunk.css.map": "/invoice-importer/static/css/main.7cad260a.chunk.css.map",
+    "static/css/main.b892675c.chunk.css.map": "/invoice-importer/static/css/main.b892675c.chunk.css.map",
     "static/js/2.da607860.chunk.js.LICENSE.txt": "/invoice-importer/static/js/2.da607860.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6ce72c13.js",
     "static/css/2.dcdbee2c.chunk.css",
     "static/js/2.da607860.chunk.js",
-    "static/css/main.7cad260a.chunk.css",
-    "static/js/main.cfcb4ca9.chunk.js"
+    "static/css/main.b892675c.chunk.css",
+    "static/js/main.39f08af8.chunk.js"
   ]
 }
